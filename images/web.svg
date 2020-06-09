@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A7CBCB;}
+	.st1{fill:#86BDBD;}
+	.st2{fill:#B6ABD8;}
+	.st3{fill:#AA96DA;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#E9EDF5;}
+	.st6{fill:#22A6B3;}
+	.st7{fill:#FF7979;}
+	.st8{fill:#FFBE76;}
+	.st9{fill:#79BCBF;}
+	.st10{fill:#FFA9A9;}
+	.st11{fill:#FF9500;}
+	.st12{fill:#CDD2E1;}
+	.st13{fill:#AFB4C8;}
+</style>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<circle class="st0" cx="256" cy="256" r="256"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<path class="st1" d="M512,256c0-32.5-6.1-63.7-17.1-92.3l-68.3-68.3L85.4,379.2L215,508.7c13.3,2.1,27,3.3,41,3.3
+		C397.4,512,512,397.4,512,256z"/>
+	<g>
+		<path class="st2" d="M85.4,95.4h341.1v52.2H85.4V95.4z"/>
+	</g>
+	<g>
+		<path class="st3" d="M256.1,95.4h170.4v52.2H256.1V95.4z"/>
+	</g>
+	<g>
+		<path class="st4" d="M85.4,142.8h341.1v236.4H85.4V142.8z"/>
+	</g>
+	<g>
+		<path class="st5" d="M256.1,142.8h170.4v236.4H256.1V142.8z"/>
+	</g>
+	<g>
+		<circle class="st6" cx="107.7" cy="118.4" r="11.7"/>
+	</g>
+	<g>
+		<circle class="st7" cx="171.6" cy="118.4" r="11.7"/>
+	</g>
+	<g>
+		<circle class="st8" cx="139.6" cy="118.4" r="11.7"/>
+	</g>
+	<g>
+		<g>
+			<path class="st9" d="M216.3,175.3h185.8v100.4H216.3V175.3z"/>
+		</g>
+		<g>
+			<path class="st6" d="M256.1,175.3h146v100.4h-146V175.3z"/>
+		</g>
+		<g>
+			<path class="st10" d="M344.4,191.3l-48.8,68l-31.1-49.2L216.3,274v22.1h185.8v-31.2L344.4,191.3z"/>
+		</g>
+		<g>
+			<path class="st7" d="M402.1,264.8l-57.8-73.5l-48.8,68l-31.1-49.2l-8.3,11V296h146L402.1,264.8L402.1,264.8z"/>
+		</g>
+		<g>
+			<circle class="st11" cx="297.8" cy="209.6" r="18.3"/>
+		</g>
+	</g>
+	<g>
+		<path class="st12" d="M100.2,175.3h100.7V205H100.2V175.3z"/>
+	</g>
+	<g>
+		<path class="st12" d="M100.2,220.9h100.7v29.6H100.2V220.9z"/>
+	</g>
+	<g>
+		<path class="st12" d="M100.2,266.4h100.7V296H100.2V266.4z"/>
+	</g>
+	<g>
+		<path class="st12" d="M100.2,312h302v29.6h-302L100.2,312L100.2,312z"/>
+	</g>
+	<g>
+		<path class="st13" d="M256.1,312h146v29.6h-146V312z"/>
+	</g>
+</g>
+</svg>

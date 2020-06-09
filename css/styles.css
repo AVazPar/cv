@@ -48,17 +48,50 @@ p{
   margin: 40px auto 60px;
 }
 
+.header{
+  padding-top: 30px;
+  width: 80%;
+  text-align: center;
+  margin: 0 auto 100px;
+}
+
+.menu-link{
+  color: #22a6b3;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.menu-link:hover{
+  color: #40514E;
+}
+
+.work-link{
+  color: #22a6b3;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.work-link:hover{
+  color: #40514E;
+}
+
+.top-menu li{
+  display: inline;
+}
+
+.profile{
+  padding-top: 100px;
+}
 .top-container{
   background-color: #e3fdfd;
   width: 100%;
-  padding-top: 100px;
   text-align: center;
 }
 
 .middle-container{
   background-color: white;
   width: 100%;
-  padding-top: 100px;
   text-align: center;
 }
 
@@ -74,8 +107,8 @@ p{
 }
 
 .skill-row{
-  width: 50%;
-  margin: auto;
+  width: 40%;
+  margin: 0 auto;
   text-align: left;
 }
 .btn{
@@ -89,7 +122,7 @@ p{
   text-align: center;
   display: inline-block;
   cursor: pointer;
-  margin-bottom: 40px;
+  margin-bottom: 100px;
 }
 
 .btn:hover {
@@ -101,8 +134,50 @@ p{
 
 .bottom-container{
   background-color: #22a6b3;
-  padding: 50px 0;
+  padding: 50px 0 20px;
   width: 100%;
   color: #e3fdfd;
   text-align: center;
 }
+
+/******   WORK  ******/
+.intro-portfolio{
+  background-color: white;
+  padding: 100px;
+}
+
+.porfolio-01{
+  background-color: #662d91;
+  padding: 50px;
+}
+
+.h2-lamorada{
+    color: white;
+    font-size: 300%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.p-lamorada{
+    line-height: 2;
+    color: white;
+    width: 40%;
+    margin: 0 auto 20px;
+    text-align: center;
+}
+
+.portfolio-02{
+  background-color: white;
+  padding: 50px;
+}
+
+.portfolio-03{
+  background-color: #BCD4D4;
+  padding: 50px;
+}
+
+/*
+Color chulo -> #86BDBD;
+más clarito -> #A7CBCB;
+más claro -> #BCD4D4;
+
+*/
