@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bbva.netcash.dev",
+    "sha256_cert_fingerprints":
+    ["42:69:B2:E1:F0:DA:69:7F:6A:7F:BF:94:CE:AF:71:99:64:51:09:BE:DC:3B:68:F5:6B:E0:B6:8A:D8:D7:09:F6"]
+  }
+}]
