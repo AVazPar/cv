@@ -1,7 +1,7 @@
 # <img height="40" src="https://github.com/AVazPar/cv/blob/master/images/angeles.png">  Hello, my name is Ángeles
 Freelance Android developer
 
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
+<code><img height="250" src="https://github.com/AVazPar/cv/blob/master/images/portada_angeles.jpeg?raw=true"></code>
 
 
 I'm a professional software developer.
